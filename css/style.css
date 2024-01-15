@@ -15,9 +15,18 @@ body {
   padding-left: 10px;
   
 }
+#title{
+  margin-bottom: 0px;
+}
 .subtitle{
-  color: rgba(0, 0, 0, 0.5)
+  color: rgba(0, 0, 0, 0.5);
+
 }
 .subtitle.date {
   font-size: 70%;
+  margin-bottom: 20px
+}
+figcaption {
+  font-size: 70%;
+  
 }
