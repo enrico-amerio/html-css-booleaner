@@ -28,5 +28,8 @@ body {
 }
 figcaption {
   font-size: 70%;
-  
+
+}
+.highlight{
+  background-color: rgb(255, 255, 0);
 }
