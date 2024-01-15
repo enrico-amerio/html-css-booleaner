@@ -1,79 +1,11 @@
-Title
+html-css-booleaner
 ===
-Abstract:xxx
-## Papar Information
-- Title:  `paper name`
-- Authors:  `A`,`B`,`C`
-- Preprint: [https://arxiv.org/abs/xx]()
-- Full-preprint: [paper position]()
-- Video: [video position]()
-
-## Install & Dependence
-- python
-- pytorch
-- numpy
-
-## Dataset Preparation
-| Dataset | Download |
-| ---     | ---   |
-| dataset-A | [download]() |
-| dataset-B | [download]() |
-| dataset-C | [download]() |
-
-## Use
-- for train
-  ```
-  python train.py
-  ```
-- for test
-  ```
-  python test.py
-  ```
-## Pretrained model
-| Model | Download |
-| ---     | ---   |
-| Model-1 | [download]() |
-| Model-2 | [download]() |
-| Model-3 | [download]() |
-
-
-## Directory Hierarchy
-```
-|—— css
-|—— img
-|    |—— graph.jpg
-|    |—— logo.svg
-|    |—— monitor.jpg
-|    |—— pattern.png
-|    |—— tim-1.jpg
-|    |—— tim-2.jpg
-|—— index.html
-```
-## Code Details
-### Tested Platform
-- software
-  ```
-  OS: Debian unstable (May 2021), Ubuntu LTS
-  Python: 3.8.5 (anaconda)
-  PyTorch: 1.7.1, 1.8.1
-  ```
-- hardware
-  ```
-  CPU: Intel Xeon 6226R
-  GPU: Nvidia RTX3090 (24GB)
-  ```
-### Hyper parameters
-```
-```
-## References
-- [paper-1]()
-- [paper-2]()
-- [code-1](https://github.com)
-- [code-2](https://github.com)
-  
-## License
-
-## Citing
-If you use xxx,please use the following BibTeX entry.
-```
-```
+Riproducete il layout dell’immagine allegata utilizzando ciò che abbiamo visto stamattina aiutandovi con le slide, video e documentazione.
+Come l’esercizio scorso e d’ora in avanti sempre, faremo questo:
+1. Create una nuova repo github per l’esercizio di oggi, con il nome indicato come nome repo e clonatela tramite vscode scegliendo una cartella sul vostro pc;
+2. All’interno della cartella del repo, create il file index.html (sarà la prima pagina ad aprirsi in un sito).
+Attenzione: per i nomi dei file usate sempre lettere minuscole e trattini al posto degli spazi :);
+3. All’interno della cartella del repo, create una sottocartella img nella quale inserirete le immagini necessarie.
+4. Sempre nella cartella repo create la cartella css nella quale inserirete creandolo/i il/i vostri file css.
+Ricordatevi di pushare di tanto in tanto per consegnare il vostro lavoro in modo incrementale.
+Buon lavoro!
