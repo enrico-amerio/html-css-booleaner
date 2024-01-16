@@ -9,21 +9,27 @@ body {
 
 }
 main, footer{
-  padding-left: .5%;
+  padding:50px ;
   
+}
+p{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.highlight{
+  background-color: rgb(255, 255, 0);
 }
 
 /*Header*/
 
-.top-bar{
+header{
   width: 100%;
   height: 186px;
   background-color:rgba(78,160,255,255);
   background-image: url("../img/pattern.png");
-  overflow: hidden;
   margin-bottom: 10px;
 }
-.top-bar img{
+header img{
   height: 75px;
   padding-top: 90px;
   padding-left: 10px;
@@ -45,15 +51,10 @@ figcaption {
   
 
 }
-p{
-  margin-top: 30px;
-  margin-bottom: 30px;
-}
-.highlight{
-  background-color: rgb(255, 255, 0);
-}
+
+
 ul {
-padding-left: 1%;
+margin-left: 15px;
 
 }
 thead{
@@ -81,20 +82,20 @@ footer img{
 footer div{
   color: white;
   background-size: cover;
-  width: 392px;
-  height: 302px;
-  margin-bottom: 10px;
-  text-align: center;
-  font-size:x-large
-  
-}
-#pictureone{
-  
-  background-image: url("../img/monitor.jpg");
+  width: 300px;
+  height: 200px;
   margin-top: 20px;
   margin-bottom: 20px ;
+  text-align: center;
+  font-size:x-large;
   
 }
-#picturetwo{
+#monitor{
+  
+  background-image: url("../img/monitor.jpg");
+ 
+  
+}
+#graph{
   background-image: url("../img/graph.jpg");
 }
